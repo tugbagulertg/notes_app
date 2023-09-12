@@ -10,8 +10,6 @@ import {
   useColorModeValue,
   useMediaQuery,
   useToast,
-  Alert,
-  AlertIcon,
 } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 import { useDispatch } from "react-redux";
