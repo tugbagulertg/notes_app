@@ -1,6 +1,6 @@
 <h1> Notes App with Redux</h1>
 
-<a href="#" target="_blank" >Live Link</a>
+<a href="[#](https://notesapp-redux-tg.netlify.app/)" target="_blank" >Live Link</a>
 
 
 <hr/>
